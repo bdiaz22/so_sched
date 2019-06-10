@@ -1,2 +1,0 @@
-# so_sched
-scheduler
